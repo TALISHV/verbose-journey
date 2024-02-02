@@ -1,0 +1,14 @@
+body{
+    background-color:yellowgreen;
+    color: rgb(255, 85, 0);
+}
+.heading{
+    font-size: 25px;
+    width: 85%;
+}
+#camera{
+    border: 2px dashed red;
+    width: 300px;
+    height: 300px;
+}
+
